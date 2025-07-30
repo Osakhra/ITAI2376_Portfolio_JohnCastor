@@ -79,7 +79,7 @@ Welcome to my comprehensive portfolio for ITAI 2376: Deep Learning. This reposit
 *Capstone deliverable: end-to-end design, implementation, and demonstration of a custom AI agent using the principles from the course.*
 
 ### Final Presentation
-*A concise 10-slide overview summarizing key portfolio highlights, learning growth, and capstone achievements.*
+*A concise 4-slide overview summarizing key portfolio highlights, learning growth, and capstone achievements.*
 
 ---
 
@@ -101,7 +101,7 @@ Welcome to my comprehensive portfolio for ITAI 2376: Deep Learning. This reposit
 
 ## Contact
 
-For questions or feedback: [your.email@domain.com]
+For questions or feedback: [evyosakhra@gmail.com]
 
 ---
 
