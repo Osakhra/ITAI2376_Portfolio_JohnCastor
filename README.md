@@ -56,7 +56,7 @@ JohnCastor\_AI\_School\_Portfolio/
 │   ├── Module\_4/
 │   └── Module\_9/
 │
-└── Presentation/             # Portfolio summary slides (if applicable)
+└── Presentation/            
 
 ```
 
